@@ -1,0 +1,47 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Training outputs
+runs/
+results/
+results_bridge/
+predictions/
+metrics/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.log
+events.out.tfevents.*
+
+# Medical data
+data/
+datasets/
+*.dcm
+*.dicom
+*.nii
+*.nii.gz
+*.nrrd
+*.mha
+*.mhd
+
+# Temporary and editor files
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+*.swp
+*~

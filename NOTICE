@@ -1,0 +1,20 @@
+﻿WFM Meningioma T1c Ablation Reconstruction
+===========================================
+
+This repository contains code derived from and built upon the following works:
+
+1. WFM: 3D Wavelet Flow Matching for Ultrafast Multi-Modal MRI Synthesis
+   Authors: Yalcin Tur, Mihajlo Stojkovic, Ulas Bagci
+   Repository: https://github.com/yalcintur/WFM
+   License: MIT
+
+2. cWDM / wdm-3d
+   Author: Paul Friedrich and co-authors
+   Repository: https://github.com/pfriedri/wdm-3d
+   License: MIT
+
+The meningioma-specific ablation modules, data loader, training scripts,
+sampling scripts, registered evaluation, and statistical analysis code were
+adapted or reconstructed for the accompanying manuscript.
+
+The original WFM README is included at docs/WFM_ORIGINAL_README.md.

@@ -1,0 +1,17 @@
+﻿cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript and the original WFM paper."
+title: "WFM Meningioma T1c Ablation Reconstruction"
+authors:
+  - family-names: Lu
+    given-names: Xianjue
+  - family-names: Wu
+    given-names: Huiting
+  - family-names: Zhou
+    given-names: Weijuan
+  - family-names: Xie
+    given-names: Zhuoying
+  - family-names: Huang
+    given-names: Fuling
+version: 0.1.0
+date-released: 2026-10-11
+license: MIT
